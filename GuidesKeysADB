@@ -57,3 +57,5 @@ KEYCODE_Y
 KEYCODE_Z
 KEYCODE_COMMA
 KEYCODE_PERIOD
+
+http://adbshell.com/commands/adb-devices - Guides for adb-command
