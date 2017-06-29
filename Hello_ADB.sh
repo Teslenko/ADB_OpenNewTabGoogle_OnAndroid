@@ -22,3 +22,4 @@ adb shell input tap 553 951 		#i
 adb shell input tap 665 1050 		#l
 adb shell input tap 665 1050 		#l
 adb shell input tap 684 562 		#Search
+adb shell input keyevent KEYCODE_HOME	#Press Home Button
