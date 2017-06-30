@@ -1,4 +1,5 @@
 Key Code  Events
+adb shell input keyevent KEYCODE_...
 
 KEYCODE_UNKNOWN
 KEYCODE_MENU
